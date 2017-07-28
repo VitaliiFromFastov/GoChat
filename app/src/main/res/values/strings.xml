@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Go Chat</string>
+    <string name="sign_in_btn">already have account</string>
+    <string name="sign_up_btn">Create new account</string>
+    <string name="user_name_til">User name</string>
+    <string name="email_til">Email</string>
+    <string name="password_til">Password</string>
+    <string name="create_account_btn">create account</string>
+    <string name="auth_failed">Registration failed</string>
+    <string name="log_out">Log out</string>
+    <string name="main_account_settings">Account settings</string>
+    <string name="main_menu_all_users">All users</string>
+    <string name="create_account_tv">Create a new account!</string>
+    <string name="registration_activity_title">Create account</string>
+    <string name="registration_activity_progress_dialog_title">Registring new account</string>
+    <string name="registration_activity_progress_dialog_message">Please wait while we create your account!</string>
+    <string name="login_tv">Login to your account</string>
+    <string name="login_activity_signin_btn">log in</string>
+    <string name="login_failed">Some issue with loggin in. Please check the fields and try again</string>
+    <string name="login_activity_title">Log in</string>
+    <string name="login_activity_progress_dialog_title">Loggin_in</string>
+    <string name="login_activity_progress_dialog_message">Please wait while we connect to your account!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_fragment_title">REQUEST</string>
+    <string name="chat_fragment_title">CHAT</string>
+    <string name="friends_fragment_title">FRIENDS</string>
+    <string name="settings_activity_user_name_tv">User name</string>
+    <string name="settings_activity_user_status_tv">Everything is in your hands!</string>
+    <string name="settings_activtiy_change_image_btn">change image</string>
+    <string name="settings_activity_change_status_btn">change status</string>
+    <string name="activity_status_title">User Status</string>
+    <string name="status_activity_status_til">Your status</string>
+    <string name="status_activity_save_changes_btn">save changes</string>
+    <string name="saving_changes_progress_dialog_title">Saving changes</string>
+    <string name="saving_changes_progress_dialog_message">Please wait while we save changes</string>
+    <string name="toast_error_with_saving_changes">We have error with saving changes. Try to redo!</string>
+    <string name="settings_activity_photo_picker_title">Pick an image!</string>
+    <string name="settings_activity_progress_dialog_title">Uploading photo</string>
+    <string name="settings_activity_progress_dialog_message">Wait while we upload your photo</string>
+    <string name="users_activity_toolbar_title">Users</string>
+</resources>
