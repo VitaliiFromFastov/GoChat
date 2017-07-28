@@ -79,6 +79,8 @@ public class UsersActivity extends AppCompatActivity {
 
             mUserNameTv.setText(name);
 
+            // hello
+
         }
 
         public void setUserStatus (String status){
